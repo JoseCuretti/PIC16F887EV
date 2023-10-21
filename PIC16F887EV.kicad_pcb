@@ -5268,4 +5268,7 @@
     )
   )
 
+  (gr_rect locked (start 15.24 15.24) (end 115.24 115.24)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 57c7cd91-9047-4281-b34f-93da4aa5b8d6))
+
 )
