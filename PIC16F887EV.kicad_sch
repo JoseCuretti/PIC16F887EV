@@ -4368,7 +4368,7 @@
     (property "Value" "R_Potentiometer" (at 322.58 180.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_SMD:Potentiometer_Vishay_TS53YL_Vertical" (at 320.04 179.07 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3299W_Vertical" (at 320.04 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 320.04 179.07 0)
