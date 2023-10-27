@@ -4339,7 +4339,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 154.94 259.08 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 451775f7-1a71-4530-ad40-de28c1318458)
-    (property "Reference" "SPI" (at 149.86 257.81 0)
+    (property "Reference" "SPI1" (at 149.86 257.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x04" (at 154.94 250.19 0)
@@ -4358,7 +4358,7 @@
     (instances
       (project "PIC16F887EV"
         (path "/a2515825-f12e-4570-8718-6acb93c561c0"
-          (reference "SPI") (unit 1)
+          (reference "SPI1") (unit 1)
         )
       )
     )
@@ -4938,7 +4938,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 154.94 233.68 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6526c957-c1e7-43d0-97fc-08e04a9fa0d3)
-    (property "Reference" "POWER" (at 148.59 233.68 0)
+    (property "Reference" "POWER1" (at 148.59 233.68 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x04" (at 154.94 224.79 0)
@@ -4957,7 +4957,7 @@
     (instances
       (project "PIC16F887EV"
         (path "/a2515825-f12e-4570-8718-6acb93c561c0"
-          (reference "POWER") (unit 1)
+          (reference "POWER1") (unit 1)
         )
       )
     )
@@ -5285,7 +5285,7 @@
   (symbol (lib_id "Connector:Conn_01x05_Socket") (at 185.42 31.115 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82b35dee-9a25-4a11-af09-67157b29fcc5)
-    (property "Reference" "ICSP" (at 185.42 29.21 90)
+    (property "Reference" "ICSP1" (at 185.42 29.21 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x05_Socket" (at 185.42 29.21 90)
@@ -5305,7 +5305,7 @@
     (instances
       (project "PIC16F887EV"
         (path "/a2515825-f12e-4570-8718-6acb93c561c0"
-          (reference "ICSP") (unit 1)
+          (reference "ICSP1") (unit 1)
         )
       )
     )
@@ -5978,7 +5978,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 154.94 246.38 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b7057de4-bd90-42fa-96a6-55f1c32237c3)
-    (property "Reference" "USART" (at 152.4 246.38 0)
+    (property "Reference" "USART1" (at 152.4 246.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x04" (at 152.4 243.84 0)
@@ -5997,7 +5997,7 @@
     (instances
       (project "PIC16F887EV"
         (path "/a2515825-f12e-4570-8718-6acb93c561c0"
-          (reference "USART") (unit 1)
+          (reference "USART1") (unit 1)
         )
       )
     )
