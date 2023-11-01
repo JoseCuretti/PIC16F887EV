@@ -320,7 +320,7 @@
       (stroke (width 0.375) (type default)) (layer "F.Cu") (tstamp abe58802-24fa-4a9b-a56d-931400a9c35f))
     (fp_arc (start -2.2943 1.1837) (mid -1.939202 -5.591342) (end 3.9945 -2.3022)
       (stroke (width 0.375) (type default)) (layer "F.Cu") (tstamp efb6bffb-c8e1-4ef7-a6f4-5fa09c2708b8))
-    (fp_arc (start -2.1747 0.3223) (mid -1.600348 -4.921578) (end 3.1903 -2.713)
+    (fp_arc (start -2.1747 0.3223) (mid -1.600349 -4.921577) (end 3.1903 -2.713)
       (stroke (width 0.375) (type default)) (layer "F.Cu") (tstamp 14047409-e5b8-425b-9543-b1c994ac1500))
     (fp_arc (start -0.7587 4.1106) (mid -2.187537 1.04645) (end -0.7587 -2.0177)
       (stroke (width 0.375) (type default)) (layer "F.Cu") (tstamp e45809b1-c80e-41e7-a917-8b684f9a59e6))
@@ -7428,7 +7428,7 @@
 
   (footprint "Libreria_Propia:unc_logo_8x11mm" (layer "F.Cu")
     (tstamp ad6261ae-1269-4532-bf97-8a0a68e5f918)
-    (at 167.64 50.8)
+    (at 97.5 21.9)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 7.62) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
@@ -10272,7 +10272,7 @@
 
   (footprint "Libreria_Propia:unc_logo_4.3x6mm" (layer "F.Cu")
     (tstamp dec41326-b7ac-4425-96f0-5754efb5971c)
-    (at 102.4 19.5)
+    (at 157.4 49.3)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at -0.8 5.5) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
@@ -17196,8 +17196,10 @@
     )
   )
 
-  (gr_rect (start 99.4 15.9) (end 105.8 23.7)
+  (gr_rect (start 92.1 16.2) (end 103.5 27.8)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.Mask") (tstamp c18f2cc5-b69b-4f54-b369-164af5ab41aa))
+  (gr_rect (start 100.4 29.3) (end 113.7 48.8)
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.Mask") (tstamp d55d0e39-1f2a-49bf-a774-9b482618cd1f))
   (gr_rect locked (start 15.24 15.24) (end 115.24 115.24)
     (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 57c7cd91-9047-4281-b34f-93da4aa5b8d6))
   (gr_text "USART" (at 103.3 76) (layer "F.Cu") (tstamp 072a5db6-6003-4978-8544-112daa2855ea)
