@@ -224,6 +224,11 @@
       (net 34 "RB0") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 3f98fb4f-9bbd-4dc6-83ca-9b22a231557d))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 34 "RB0") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 7882085a-360c-4595-9ab3-8ff37b8f125d))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Crystal:Crystal_HC18-U_Vertical" (layer "F.Cu")
@@ -552,6 +557,11 @@
       (net 35 "RB1") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 550383ea-85b7-42c4-a012-7e48f6db1599))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 35 "RB1") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp a2ef1f18-1ab0-4636-b391-521e964d3d6a))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "GitHub:SW_TS04-66-43-BK-100-SMT" (layer "F.Cu")
@@ -607,6 +617,11 @@
       (net 35 "RB1") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp ff0b0207-41f7-4303-a309-31df067a97b7))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 35 "RB1") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 997ed885-17ed-46d6-83e7-9b7e2a9b345e))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "GitHub:SW_TS04-66-43-BK-100-SMT" (layer "F.Cu")
@@ -662,6 +677,11 @@
       (net 35 "RB1") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 26e00644-3915-460d-9e60-7a901e137df2))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 35 "RB1") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 41b13a22-c241-4e32-b1fa-b0e0a52e197b))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (layer "F.Cu")
@@ -1201,6 +1221,11 @@
       (net 52 "RB3") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 75f81bf4-50d5-4f3c-be75-2438e0d26e0c))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 52 "RB3") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 7ad029e6-03c4-443a-965e-eaf4a5e5c630))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Potentiometer_THT:Potentiometer_Bourns_3299W_Vertical" (layer "F.Cu")
@@ -1686,6 +1711,11 @@
       (net 31 "+5V") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp d26abb92-664d-43a1-b030-3a75dbcb3422))
     (pad "2" smd rect (at 4.55 2.25 270) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 31 "+5V") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 585a17f9-8bd6-434d-b99b-aa836f36fed7))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (layer "F.Cu")
@@ -1809,6 +1839,11 @@
       (net 31 "+5V") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp d9772adc-2ba2-4446-a76d-442709ba0245))
     (pad "2" smd rect (at 4.55 2.25 270) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 31 "+5V") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp b956091b-dc55-4076-8fcd-bdb291997395))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (layer "F.Cu")
@@ -1922,6 +1957,11 @@
       (net 36 "RB2") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp a43b6a77-e5b2-4156-92fb-1671042824ff))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 36 "RB2") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp f0ff086c-ebd5-40a8-813b-2876b7b4e422))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
@@ -2297,6 +2337,11 @@
       (net 1 "MCLR") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 652ee96a-dc2f-4484-9f34-30b65e991c47))
     (pad "2" smd rect (at 4.55 2.25 180) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "MCLR") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp e77fb6d9-80be-4937-82f3-8ef38c937885))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780" (layer "F.Cu")
@@ -2498,6 +2543,11 @@
       (net 34 "RB0") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp c16b20d4-73f6-4aa2-bc9c-b519f8076cf4))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 34 "RB0") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 48ae5c45-3b55-409c-b1b2-6ad533d71017))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (layer "F.Cu")
@@ -2607,6 +2657,11 @@
       (net 36 "RB2") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 50fb69a5-a23a-47ec-a758-2748bd0b9515))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 36 "RB2") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 951d5cc7-934c-4b58-9573-857127a3e4de))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (layer "F.Cu")
@@ -2716,6 +2771,11 @@
       (net 36 "RB2") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 969d1509-bb9e-4ff7-a3f9-6140a9c464d0))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 36 "RB2") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 55e4523a-1053-47f4-8b45-23d326c1efd1))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Libreria_Propia:unc_logo_8x11mm" (layer "F.Cu")
@@ -5201,6 +5261,11 @@
       (net 52 "RB3") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 621d4166-ba40-4a51-a4c6-c91c4a69986e))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 52 "RB3") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp ca43e120-95b4-4b98-9b52-7d5316a8bc01))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (layer "F.Cu")
@@ -7771,6 +7836,11 @@
       (net 35 "RB1") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 04612471-3289-4629-a485-f7ddd3ab49c0))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 35 "RB1") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp e9607d08-8f78-4084-b1c1-76043ca56965))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (layer "F.Cu")
@@ -8080,6 +8150,11 @@
       (net 34 "RB0") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 7ac7e403-8308-4783-8ab8-fc17840e5dae))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 34 "RB0") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp df8deed8-9356-46dd-bf9a-1dde872c7f5f))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "GitHub:SW_TS04-66-43-BK-100-SMT" (layer "F.Cu")
@@ -8135,6 +8210,11 @@
       (net 52 "RB3") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 0a24b4eb-2064-483b-8e57-1580f93f31b2))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 52 "RB3") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 0ebcd33c-2650-4d58-ac2a-0bc14db08120))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (layer "F.Cu")
@@ -8258,6 +8338,11 @@
       (net 36 "RB2") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 1dc56fd2-37b4-4934-a297-167d552aebda))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 36 "RB2") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp a1d8c1db-6168-4630-996a-9f28594af434))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (layer "F.Cu")
@@ -8425,6 +8510,11 @@
       (net 52 "RB3") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp fddc3a56-ba5b-494a-a1f5-a96d6b85cbb5))
     (pad "2" smd rect (at 4.55 2.25) (size 2.1 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 52 "RB3") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 29c1575b-ff34-4897-a6ef-541c69dd557c))
+  (model "${KIPRJMOD}/switch SMD .step"
+      (offset (xyz 0 0 0.443))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal" (layer "F.Cu")
